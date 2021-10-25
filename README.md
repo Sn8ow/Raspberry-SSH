@@ -1,2 +1,4 @@
 # Raspberry-SSH
-🔥Controling your RaspberryPI with discord webhook🔥
+Program is progress /.
+
+Discord Support: https://discord.gg/RXtVveQf56
